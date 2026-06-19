@@ -1,0 +1,1 @@
+This small counter project is made for the purpose of revising react useState hook
