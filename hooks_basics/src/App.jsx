@@ -10,7 +10,7 @@ const App = () => {
           className="mr-5 border-b-blue-50 border-4 p-5 rounded-2xl"
           onClick={()=>{setcount(count+1)}
           }>
-            Increase</button>
+            Up</button>
           <button 
           className="ml-5 border-b-blue-50 border-4 p-5 rounded-2xl"
           onClick={()=>{
@@ -19,7 +19,7 @@ const App = () => {
                 setcount(count-1)}
               }
           }>
-            Decrease</button>
+            Down</button>
         </div>
     </div>
   )
